@@ -1,2 +1,0 @@
-hadoop fs -mkdir /main
-

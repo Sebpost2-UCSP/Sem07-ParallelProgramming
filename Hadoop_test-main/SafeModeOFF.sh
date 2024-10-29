@@ -1,1 +1,0 @@
-hdfs dfsadmin -safemode forceExit
